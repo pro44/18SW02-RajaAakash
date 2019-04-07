@@ -1,4 +1,4 @@
-class Task2{
+class Task1{
 public static void main(String args[]){
 String name;
 int marks;
